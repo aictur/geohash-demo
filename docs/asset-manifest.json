@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.02ee5935.css",
-    "main.js": "/static/js/main.ed68a751.js",
-    "static/js/787.e18515c4.chunk.js": "/static/js/787.e18515c4.chunk.js",
-    "index.html": "/index.html",
-    "main.02ee5935.css.map": "/static/css/main.02ee5935.css.map",
-    "main.ed68a751.js.map": "/static/js/main.ed68a751.js.map",
-    "787.e18515c4.chunk.js.map": "/static/js/787.e18515c4.chunk.js.map"
+    "main.css": "/geohash-demo/static/css/main.02ee5935.css",
+    "main.js": "/geohash-demo/static/js/main.519fa5ca.js",
+    "static/js/787.e18515c4.chunk.js": "/geohash-demo/static/js/787.e18515c4.chunk.js",
+    "index.html": "/geohash-demo/index.html",
+    "main.02ee5935.css.map": "/geohash-demo/static/css/main.02ee5935.css.map",
+    "main.519fa5ca.js.map": "/geohash-demo/static/js/main.519fa5ca.js.map",
+    "787.e18515c4.chunk.js.map": "/geohash-demo/static/js/787.e18515c4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02ee5935.css",
-    "static/js/main.ed68a751.js"
+    "static/js/main.519fa5ca.js"
   ]
 }
